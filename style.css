@@ -13,7 +13,7 @@ body {
 #story-container {
     width: 90%;
     max-width: 600px;
-    height: 70vh;
+    height: 77vh;
     border: 5px solid #6b4f4f; /* A darker border for a book feel */
     border-radius: 10px;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
