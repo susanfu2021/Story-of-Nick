@@ -13,7 +13,7 @@ body {
 #story-container {
     width: 90%;
     max-width: 600px;
-    height: 77vh;
+    height: 75vh;
     border: 5px solid #6b4f4f; /* A darker border for a book feel */
     border-radius: 10px;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
@@ -29,7 +29,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 20px;
+    padding: 16px;
     text-align: center;
     box-sizing: border-box;
 }
@@ -40,7 +40,7 @@ body {
 
 .story-page img {
     max-width: 100%;
-    max-height: 60%;
+    max-height: 50%;
     border-radius: 8px;
     margin-bottom: 20px;
     object-fit: contain; /* Ensures the image fits without distortion */
